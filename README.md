@@ -26,3 +26,13 @@ Uses a Randomized Queue to return a random permutation of strings from an inputt
 [Specification](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php)
 
 [Solution](https://github.com/duncanpharvey/coursera/tree/master/Deque)
+
+#### Collinear Points
+
+Computational Geometry problem in finding the line segments that connect a subset of 4 or more points in a plane. Solved with two different algorithms:
+- Brute force algorithm with a time complexity O(n<sup>4</sup>)
+- Fast algorithm that uses sorting to achieve time complexity of O(n<sup>2</sup>log<sub>2</sub>n)
+
+[Specification](https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php)
+
+[Solution](https://github.com/duncanpharvey/coursera/tree/master/CollinearPoints)
