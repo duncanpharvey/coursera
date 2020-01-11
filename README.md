@@ -41,6 +41,10 @@ Computational Geometry problem in finding the line segments that connect a subse
 
 Application of the A* search algorithm. Solves an [8 Puzzle](https://en.wikipedia.org/wiki/Sliding_puzzle) as well as puzzles of larger dimensions using a priority queue that sorts based on the Manhattan distance of a puzzle to the goal state.
 
+Use SolverVisualizer (not my code) to get a more friendly visualization of the optimal solution.
+
 [Specification](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php)
 
 [Solution](https://github.com/duncanpharvey/coursera/tree/master/8Puzzle)
+
+More puzzles [here](ftp://ftp.cs.princeton.edu/pub/cs226/8puzzle)
