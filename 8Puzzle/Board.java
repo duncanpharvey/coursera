@@ -24,6 +24,10 @@ public class Board {
         }
     }
 
+    public int tileAt(int row, int col) {
+        return board[row][col];
+    }
+
     private int mapIndex(int row, int col) {
         return n * row + col + 1;
     }
