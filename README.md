@@ -47,4 +47,4 @@ Use SolverVisualizer (not my code) to get a more friendly visualization of the o
 
 [Solution](https://github.com/duncanpharvey/coursera/tree/master/8Puzzle)
 
-More puzzles [here](ftp://ftp.cs.princeton.edu/pub/cs226/8puzzle)
+More puzzles here - ftp://ftp.cs.princeton.edu/pub/cs226/8puzzle
