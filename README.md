@@ -12,7 +12,7 @@ Performs a Monte Carlo simulation to determine the threshold p* above which a sy
 
 [Specification](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)
 
-[Solution](https://github.com/duncanpharvey/coursera/tree/master/Percolation)
+[Solution](https://github.com/duncanpharvey/coursera/tree/master/Algorithms/Percolation)
 
 Notes
 - Solution currently does not account for backwash - sites connected to the bottom row are filled even though they are not connected
@@ -25,7 +25,7 @@ Uses a Randomized Queue to return a random permutation of strings from an inputt
 
 [Specification](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php)
 
-[Solution](https://github.com/duncanpharvey/coursera/tree/master/Deque)
+[Solution](https://github.com/duncanpharvey/coursera/tree/master/Algorithms/Deque)
 
 #### Collinear Points
 
@@ -35,7 +35,7 @@ Computational Geometry problem in finding the line segments that connect a subse
 
 [Specification](https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php)
 
-[Solution](https://github.com/duncanpharvey/coursera/tree/master/CollinearPoints)
+[Solution](https://github.com/duncanpharvey/coursera/tree/master/Algorithms/CollinearPoints)
 
 #### 8 Puzzle
 
@@ -45,6 +45,6 @@ Use SolverVisualizer (not my code) to get a more friendly visualization of the o
 
 [Specification](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php)
 
-[Solution](https://github.com/duncanpharvey/coursera/tree/master/8Puzzle)
+[Solution](https://github.com/duncanpharvey/coursera/tree/master/Algorithms/8Puzzle)
 
 More puzzles here - ftp://ftp.cs.princeton.edu/pub/cs226/8puzzle
